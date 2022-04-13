@@ -49,6 +49,8 @@ int main(void) {
 
   // 산술평균
   avg = round(sum/N);
+  if(avg == -0)
+    avg = 0;
   // 중앙값
   median = nums[N/2];
   // 최빈값
