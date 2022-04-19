@@ -2,6 +2,7 @@
   "files.associations": {
     "iostream": "cpp",
     "string": "cpp",
-    "__bit_reference": "cpp"
+    "__bit_reference": "cpp",
+    "new": "cpp"
   }
 }
