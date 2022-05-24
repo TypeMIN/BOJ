@@ -20,7 +20,7 @@ int divide(int a, int b) {
 
 int findMaxResult(int n, int i, int* numbers, int* numOperators) {
   if(i == n) {
-    return 18;
+    return 19;
   }
 }
 
